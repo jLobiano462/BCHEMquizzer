@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BCHEMquizzer/static/css/main.62bbecf5.css",
-    "main.js": "/BCHEMquizzer/static/js/main.305db589.js",
+    "main.js": "/BCHEMquizzer/static/js/main.517bcea2.js",
     "index.html": "/BCHEMquizzer/index.html",
     "main.62bbecf5.css.map": "/BCHEMquizzer/static/css/main.62bbecf5.css.map",
-    "main.305db589.js.map": "/BCHEMquizzer/static/js/main.305db589.js.map"
+    "main.517bcea2.js.map": "/BCHEMquizzer/static/js/main.517bcea2.js.map"
   },
   "entrypoints": [
     "static/css/main.62bbecf5.css",
-    "static/js/main.305db589.js"
+    "static/js/main.517bcea2.js"
   ]
 }
